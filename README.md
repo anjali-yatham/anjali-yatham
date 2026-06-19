@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi there 👋, I'm Divyanjali Yatham
 
-<!--
-**anjali-yatham/anjali-yatham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
 
-Here are some ideas to get you started:
+💻 Passionate about:
+- Machine Learning
+- Artificial Intelligence
+- Cybersecurity
+- Full Stack Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Projects
+
+### 🔒 ThreatLens
+AI-powered cybersecurity threat detection platform featuring:
+
+- URL Phishing Detection
+- Email Phishing Detection
+- SMS Scam Detection
+- Fake Job Detection
+
+### 💰 FinMate AI
+AI CFO helper for financial decision simulation.
+
+### 🏥 MediSense
+Healthcare-focused intelligent application.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+C++
+Python
+Java
+JavaScript
+SQL
+
+### Web Development
+HTML
+CSS
+JavaScript
+React
+
+### Machine Learning
+Scikit-learn
+Pandas
+NumPy
+XGBoost
+
+### Tools
+Git
+GitHub
+VS Code
+
+---
+
+## 🌱 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- Advanced Machine Learning
+- Generative AI
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/divyanjali-yatham-a78265350/m
+
