@@ -1,71 +1,57 @@
-# Hi there 👋, I'm Divyanjali Yatham
+<h1 align="center">Hi 👋, I'm Divyanjali Yatham</h1>
 
-🎓 Computer Science Student
+<h3 align="center">
+AI & Data Science Enthusiast • Frontend Developer • Problem Solver
+</h3>
 
-💻 Passionate about:
-- Machine Learning
-- Artificial Intelligence
-- Cybersecurity
-- Full Stack Development
-
----
-
-## 🚀 Featured Projects
-
-### 🔒 ThreatLens
-AI-powered cybersecurity threat detection platform featuring:
-
-- URL Phishing Detection
-- Email Phishing Detection
-- SMS Scam Detection
-- Fake Job Detection
-
-### 💰 FinMate AI
-AI CFO helper for financial decision simulation.
-
-### 🏥 MediSense
-Healthcare-focused intelligent application.
+<p align="center">
+I enjoy transforming data into intelligent solutions and building products that solve real-world problems.
+Currently exploring Machine Learning, Data Science, and modern web technologies while creating impactful projects.
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 💡 Areas That Excite Me
 
-### Languages
-C++
-Python
-Java
-JavaScript
-SQL
+🤖 Artificial Intelligence
 
-### Web Development
-HTML
-CSS
-JavaScript
-React
+📊 Data Science & Analytics
 
-### Machine Learning
-Scikit-learn
-Pandas
-NumPy
-XGBoost
+🧠 Machine Learning
 
-### Tools
-Git
-GitHub
-VS Code
+🌐 Frontend Development
+
+---
+
+## 🛠️ Tech Toolbox
+
+**Languages**
+C++ • Python • JavaScript • Java • SQL
+
+**Data & AI**
+Pandas • NumPy • Scikit-Learn • XGBoost
+
+**Frontend**
+HTML • CSS • JavaScript • React
+
+**Tools**
+Git • GitHub • VS Code
 
 ---
 
 ## 🌱 Currently Learning
 
-- Data Structures & Algorithms
-- System Design
 - Advanced Machine Learning
-- Generative AI
+- Data Analysis & Visualization
+- System Design Fundamentals
+- DSA for Placements
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
-LinkedIn: https://www.linkedin.com/in/divyanjali-yatham-a78265350/m
+LinkedIn: https://www.linkedin.com/in/divyanjali-yatham-a78265350/
 
+
+---
+⭐ I love building projects where AI, data, and software come together to solve meaningful problems.
